@@ -6,3 +6,8 @@
 3. [csdn_crawl_requests.py](https://github.com/cuiyonghua6/csdn_crawl/blob/master/csdn_crawl_requests.py) : 使用requests爬取csdn数据;
 4. [csdn_crawl_scrapy.py](https://github.com/cuiyonghua6/csdn_crawl/blob/master/csdn_crawl_scrapy.py) : 用scrapy爬取csdn数据；
 5. [csdn_crawl_asyncio.py](https://github.com/cuiyonghua6/csdn_crawl/blob/master/csdn_crawl_asyncio.py) : 使用asyncio异步爬取csdn数据。
+
+
+博客一：[用selenium爬取csdn博客文章，并用4种方法提取数据](https://blog.csdn.net/cui_yonghua/article/details/106765193)
+
+博客二：[分别用selenium,requests,模拟scrapy,asyncio爬取CSDN用户的全部文章，并比较差异 (附python源码)](https://blog.csdn.net/cui_yonghua/article/details/106814205)
